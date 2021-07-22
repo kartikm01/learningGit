@@ -1,0 +1,45 @@
+<style>
+        .upper {
+            float: right;
+            margin-right: 150px;
+            margin-top: 2%;
+            font-size: 18px;  
+            font-style: oblique;
+            font-family: math;
+        }
+        .head {
+            margin-right: 3px;
+            font-weight: bolder;
+            background-color: azure;
+            border: 1px solid black;
+            border-radius: 38px;
+            width: 136%;
+        }
+        .con {
+            display: flex;
+            justify-content: space-evenly;
+            width: 110%;
+            border: 1px solid black;
+            margin-right: 60px;
+            margin-left: 15%;
+            background-color: aliceblue;
+            border-radius: 47px;
+        }
+        .first {
+            /* border: 2px dashed red; */
+            margin: 8px;
+            font-weight: bold;
+            padding: 3px;
+            font-style: oblique;
+            font-family: math;
+ 
+        }
+        .second {
+            /* border: 2px dashed green; */
+            margin: 8px;
+            font-weight: bold;
+            padding: 3px;
+            font-style: oblique;
+            font-family: math;
+        }
+    </style>
